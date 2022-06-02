@@ -25,4 +25,4 @@ The model is distributed under the [GPLv2 Lincense](https://github.com/Open-Syst
 models for prediction of complex CYP2C8 and OATP1B1 (SLCO1B1) drug–drug–gene interactions: A modeling network of
 gemfibrozil, repaglinide, pioglitazone, rifampicin, clarithromycin and itraconazole. Clin. Pharmacokinet. 2019, 58, 1595–1607.](https://pubmed.ncbi.nlm.nih.gov/31129789/)
 
-[[2] Loer, H.L.H.; Türk, D.; Mantilla, J.D.G.; Selzer, D.; Lehr, T. Physiologically based pharmacokinetic (PBPK) modeling of clopidogrel and its four relevant metabolites for CYP2B6, CYP2C8, CYP2C19, and CYP3A4 drug-drug-gene interaction predictions. Pharmaceutics 2022, 14, 915.](https://www.mdpi.com/1999-4923/14/5/915)
+[[2] Loer, H.L.H.; Türk, D.; Gómez-Mantilla, J.D.; Selzer, D.; Lehr, T. Physiologically based pharmacokinetic (PBPK) modeling of clopidogrel and its four relevant metabolites for CYP2B6, CYP2C8, CYP2C19, and CYP3A4 drug-drug-gene interaction predictions. Pharmaceutics 2022, 14, 915.](https://www.mdpi.com/1999-4923/14/5/915)
